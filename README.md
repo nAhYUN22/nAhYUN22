@@ -1,5 +1,4 @@
 <!--타이틀 부분-->
-<h1 align="center">Hyunni's Github</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure+Engineer;OpenStack-based+Private+Cloud+Operator;Monitoring+%7C+Automation+%7C+Reliability;Building+cloud+platforms+for+student+developers" alt="Typing SVG" />
 </p>
