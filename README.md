@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-</div>
+<h1 align="center">Hyunni's Github</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Cloud+Infrastructure+Engineer;OpenStack-based+Private+Cloud+Operator;Monitoring+%7C+Automation+%7C+Reliability;Building+cloud+platforms+for+student+developers" alt="Typing SVG" />
+</p>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
