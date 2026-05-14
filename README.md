@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nahyunni&style=for-the-badge&color=36BCF7" />
+<img src="https://komarev.com/ghpvc/?username=nAhYUN22&style=for-the-badge&color=36BCF7" />
 
 </div>
 
@@ -26,7 +26,7 @@ OpenStack 기반 프라이빗 클라우드, 모니터링, 자동화, 운영 안�
 
 ---
 
-## 🛠️ Main Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -113,8 +113,8 @@ FastAPI     PostgreSQL   Prometheus   Grafana   Ceph
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nahyunni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahyunni&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nAhYUN22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nAhYUN22&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -124,7 +124,7 @@ FastAPI     PostgreSQL   Prometheus   Grafana   Ceph
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahyunni&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nAhYUN22&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -134,7 +134,7 @@ FastAPI     PostgreSQL   Prometheus   Grafana   Ceph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nahyunni&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nAhYUN22&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -144,30 +144,7 @@ FastAPI     PostgreSQL   Prometheus   Grafana   Ceph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nahyunni&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
-
----
-
-## 🧭 Focus Area
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><b>Cloud</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Operation</b></td>
-    <td align="center"><b>Automation</b></td>
-  </tr>
-  <tr>
-    <td align="center">OpenStack<br/>AWS<br/>Azure<br/>OCI</td>
-    <td align="center">Spring Boot<br/>FastAPI<br/>Node.js<br/>PostgreSQL</td>
-    <td align="center">Linux<br/>Monitoring<br/>Troubleshooting<br/>Incident Response</td>
-    <td align="center">Docker<br/>GitHub Actions<br/>GHCR<br/>Selenium</td>
-  </tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=nAhYUN22&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
